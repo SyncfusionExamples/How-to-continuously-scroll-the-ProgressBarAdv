@@ -47,3 +47,5 @@ End Sub
 ```
 
 Output:
+
+![ProgressBarAdv_Scroll](ProgressBarAdv_Scroll.png)
