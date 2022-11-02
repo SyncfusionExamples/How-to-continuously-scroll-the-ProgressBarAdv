@@ -1,4 +1,4 @@
-# How-to-continuously-scroll-the-ProgressBarAdv
+# How to continuously scroll the ProgressBarAdv
 This repository contains the sample that how to continuously scroll the ProgressBarAdv.
 
 The ProgressBarAdv can be scroll by handling Timer. The value for ProgressBarAdv can be set in timer_Tick event. In that event increasing the value will scroll the ProgressBarAdv continuously .The value can be assigned as shown in the below code.
